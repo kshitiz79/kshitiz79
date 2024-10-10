@@ -61,6 +61,6 @@ I am Kshitiz Kumar Maurya, Techinical(Blockchain and DevOps) content writer at c
 ## 📈 Stats
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kuroo7&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kuroo7&theme=tokyonight" />
+  <img width="48%" src="" />
+  <img width="48%" src="" />
 </p>
