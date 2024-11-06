@@ -1,7 +1,7 @@
 
 ## Hi, I am Kshitiz Great to see you here! 👋
 
-I am Kshitiz Kumar Maurya, Techinical(Blockchain and DevOps) content writer at code8.I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Kshitiz Kumar Maurya, Techinical(Blockchain and DevOps) content writer at code8.I am a Full Stack Developer with experience building open source projects. I am a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here
 
 [![Linkedin Badge](https://img.shields.io/badge/-Kshitiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kshitiz-maurya-552118227/)](https://www.linkedin.com/in/kshitiz-maurya-552118227/)
 [![Instagram Badge](https://img.shields.io/badge/-KshitizMaurya-purple?style=flat-square&logo=instagram&logoColor=white&link=https:///)](https://www.instagram.com/_.maurya._kshitiz/)
